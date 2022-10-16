@@ -72,7 +72,7 @@ endmodule
 ![output](ss3.png)
 ## Timing diagram 
 ![output](ss4.png)
-## HALF SUBTRACTOR
+## FULL SUBTRACTOR
 ## Logic Symbol
 ![output](ss5.png)
 ## Truthtable
